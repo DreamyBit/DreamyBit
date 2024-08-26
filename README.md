@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as Full-Stack Software Developer at Clikma LMS<br><br>🌱 I’m currently learning the Google Cloud Environment as well as honing my programming skills.<br><br>💬 Ask me about OOP, Web development, or Machine Learning.<br>
+🔭 I’m currently honing my skills as Full-Stack Software Developer<br><br>💬 Ask me about OOP, Web development, or Machine Learning.<br>
 
 
 ## 🌐 Socials:
