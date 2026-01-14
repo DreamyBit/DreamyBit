@@ -44,6 +44,13 @@ Siempre estoy abierto a conectar con otros desarrolladores y discutir tecnologí
 - Experiencia con arquitectura serverless y microservicios
 - Experiencia con procedimientos almacenados y paquetes de base de datos
 
+## Proyectos
+
+### LandCoverageEE-R
+Análisis de uso de suelo utilizando datos del satélite Sentinel 2 a través de Google Earth Engine, exportando rasters compatibles con sistemas capaces de realizar proyecciones regresivas.
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DreamyBit/LandCoverageEE-R)
+
 ## Biblioteca Técnica
 - Fundamentals of Enterprise Architecture by Tanusree McCabe
 
