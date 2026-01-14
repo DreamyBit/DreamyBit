@@ -34,10 +34,10 @@ Siempre estoy abierto a conectar con otros desarrolladores y discutir tecnologí
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### Arquitectura y Experiencia
-- Discutí e implementé arquitectura para sistemas a nivel nacional
+- Implementé arquitectura para sistemas a nivel nacional
 - Aseguré la confiabilidad y escalabilidad del sistema
 - Experiencia con procedimientos almacenados y paquetes de base de datos
-- Arquitectura serverless y microservicios
+- Experiencia con arquitectura serverless y microservicios
 # Estadísticas de GitHub:
 ![](https://github-readme-stats.vercel.app/api?username=DreamyBit&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DreamyBit&theme=dark&hide_border=false)<br/>
