@@ -54,8 +54,3 @@ Análisis de uso de suelo utilizando datos del satélite Sentinel 2 a través de
 ## Biblioteca Técnica
 - Fundamentals of Enterprise Architecture by Tanusree McCabe
 
-## Estadísticas de GitHub
-![](https://github-readme-stats.vercel.app/api?username=DreamyBit&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DreamyBit&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DreamyBit&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
