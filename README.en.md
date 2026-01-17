@@ -53,11 +53,3 @@ Soil usage analysis using Sentinel 2 satellite data through Google Earth Engine,
 
 ## Technical Library
 - Fundamentals of Enterprise Architecture by Tanusree McCabe
-
-## GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=DreamyBit&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DreamyBit&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DreamyBit&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-![Visitor Badge](https://visitcount.itsvg.in/api?id=DreamyBit&label=Visitors&color=0&icon=7&style=for-the-badge) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-mu%C3%B1oz-sanchez-010634262/)
