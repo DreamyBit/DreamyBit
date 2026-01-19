@@ -4,7 +4,7 @@
 
 # Felipe Muñoz Sanchez
 
-I'm Felipe Muñoz Sanchez, a DevOps and Senior Full Stack Developer with a passion for building scalable and efficient software solutions. Currently based in Chile, I hold a degree in Civil Engineering in Computer Science.
+I'm Felipe Muñoz Sanchez, a DevOps Engineer and Senior Full Stack Developer with a passion for building scalable and efficient software solutions. Currently based in Chile, I hold a degree in Civil Engineering in Computer Science.
 
 Currently working on SONDA. IT Services.
 
