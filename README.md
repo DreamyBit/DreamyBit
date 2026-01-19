@@ -4,7 +4,7 @@
 
 # Felipe Muñoz Sanchez
 
-Soy Felipe Muñoz Sanchez, un Desarrollador DevOps y Full Stack Senior con pasión por construir soluciones de software escalables y eficientes. Actualmente radicado en Chile, poseo un título en Ingeniería Civil en Informática.
+Soy Felipe Muñoz Sanchez, un Ingeniero DevOps y Desarrollador Full Stack Senior con pasión por construir soluciones de software escalables y eficientes. Actualmente radicado en Chile, poseo un título en Ingeniería Civil en Informática.
 
 Actualmente trabajo en SONDA. IT Services.
 
